@@ -55,5 +55,4 @@ public class Student {
   public void setPassportNumber(String passportNumber) {
     this.passportNumber = passportNumber;
   }
-
 }
